@@ -1,0 +1,7 @@
+[user]
+	name = eladk
+	email = elad.karakuli@gmail.com
+[core]
+	autcrlf = true
+[url "https://"]
+	insteadOf = git://
