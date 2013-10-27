@@ -1,8 +1,5 @@
-node_modules/*grunt*
-node_modules/*karma*
-.tmp
-.sass-cache
 app/bower_components
 keys/*
 keys/
 *~
+.*
